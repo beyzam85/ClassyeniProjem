@@ -20,6 +20,7 @@ git push -u origin master
         ben bu işi yaparım
         artık Github ' ida ogrendim.
         jhldfcsdjk
+        hlwue378043
         
          */
     }
