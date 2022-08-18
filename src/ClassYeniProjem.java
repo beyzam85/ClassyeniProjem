@@ -17,6 +17,7 @@ git log --oneline
 git remote add origin https://github.com/techproed2020/Git_...
 git push -u origin master
 
+        ben bu işi yaparım
          */
     }
 }
